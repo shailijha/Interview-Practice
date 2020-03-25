@@ -1,0 +1,9 @@
+leetcode - data structures, algorithms - list, graph,
+heaps, stacks, queues, sliding windows and pointer,
+dynamic programming - practice the medium questions - 
+do the easy one's for sure - do the google tagged 
+questions: start 1-2 weeks before that
+Geeksforgeeks - 
+pramp - website for mock interviews
+find the number of maximum of 1's in an array of numbers
+space and time complexity
